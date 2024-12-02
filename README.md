@@ -36,7 +36,9 @@ This repository contains Arduino-based projects designed to improve safety and a
 
 ### LPG & Flame Detection System  
 - **LPG Leak Detection**: Triggers an alarm for high gas concentration.  
-- **Flame Detection**: Activates a water pump and buzzer when a flame is detected.  
+- **Flame Detection**: Activates a water pump and buzzer when a flame is detected.
+- **[LPG & Flame Detection System](https://app.cirkitdesigner.com/project/09f0496c-3b04-47b2-a7fc-85ccd29e454e)**
+  <img src="https://github.com/user-attachments/assets/04197f16-3557-4e93-b543-e4b161d377dc" alt="Door Control System" width="600px">
 
 ---
 
@@ -81,7 +83,9 @@ Combines security and automation into a single system for smart home application
 Focuses on detecting hazards to ensure home safety.  
 
 - **LPG Detection**: Sounds an alarm if gas concentration exceeds a safe level.  
-- **Flame Detection**: Activates the water pump and buzzer when a fire is detected.  
+- **Flame Detection**: Activates the water pump and buzzer when a fire is detected.
+  <img src="https://github.com/user-attachments/assets/04197f16-3557-4e93-b543-e4b161d377dc" alt="Door Control System" width="600px">
+
 
 ---
 
