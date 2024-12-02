@@ -30,7 +30,9 @@ This repository contains Arduino-based projects designed to improve safety and a
 - **Password-Protected Door Lock**: Uses a servo motor to secure or unlock the door.  
 - **Temperature Monitoring**: Displays real-time temperature on an LCD screen.  
 - **Motion Detection**: Detects movement for additional security.  
-- **WiFi Control**: Operated remotely using the RemoteXY app.  
+- **WiFi Control**: Operated remotely using the RemoteXY app.
+- **[Door Control System Simulation Link](https://wokwi.com/projects/416190208386689025)**
+<img src="https://github.com/user-attachments/assets/b44dc2ca-e726-4ceb-9737-aa8ced78e630" alt="Door Control System" width="600px">
 
 ### LPG & Flame Detection System  
 - **LPG Leak Detection**: Triggers an alarm for high gas concentration.  
@@ -71,9 +73,9 @@ Combines security and automation into a single system for smart home application
 
 - **Servo-Based Door Lock**: Opens or closes based on the correct password entered via the keypad.  
 - **Temperature Monitoring**: Displays live temperature data on the LCD.  
-- **Remote Control**: Operated wirelessly via the RemoteXY app.  
-
-- **[Door Control System Simulation Link](https://wokwi.com/projects/416190208386689025)**
+- **Remote Control**: Operated wirelessly via the RemoteXY app.
+  
+  <img src="https://github.com/user-attachments/assets/0590e0ae-2f38-4b80-b86b-34a1062f01a4" alt="Door Control System" width="600px">
 
 ### 2. **LPG & Flame Detection System**  
 Focuses on detecting hazards to ensure home safety.  
