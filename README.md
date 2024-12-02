@@ -73,6 +73,8 @@ Combines security and automation into a single system for smart home application
 - **Temperature Monitoring**: Displays live temperature data on the LCD.  
 - **Remote Control**: Operated wirelessly via the RemoteXY app.  
 
+- **[Door Control System Simulation Link](https://wokwi.com/projects/416190208386689025)**
+
 ### 2. **LPG & Flame Detection System**  
 Focuses on detecting hazards to ensure home safety.  
 
